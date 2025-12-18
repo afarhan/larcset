@@ -11898,7 +11898,7 @@
 		)
 		(uuid "bd1ad242-35bf-4d69-8103-1dc91de4a71b")
 	)
-	(text "L1: T50-6, 31T (needs trimmming)\nL2,L3 : T30-6, 21T\nL4: T30-6, 17T\nL5: T30-6,19T"
+	(text "L1: T50-6, 30T (needs trimmming)\nL2,L3 : T30-6, 19T\nL4: T30-6, 19T\nL5: T30-6,17T"
 		(exclude_from_sim no)
 		(at 237.49 60.96 0)
 		(effects
@@ -34229,7 +34229,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "10K"
 			(at 236.22 103.886 90)
 			(effects
 				(font
